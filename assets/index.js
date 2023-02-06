@@ -1,0 +1,10 @@
+export { default as HeroImage } from "./hero.png";
+export { default as Avatar } from "./avatar.png";
+export { default as Hotels } from "./hotel.png";
+export { default as Attractions } from "./attraction.png";
+export { default as Restaurants } from "./restaurants.png";
+export { default as NotFound } from "./NotFound.png";
+export { default as Image1 } from "./img1.jpg";
+export { default as Image2 } from "./img2.jpg";
+export { default as Image3 } from "./img3.jpg";
+export { default as Image4 } from "./img4.jpg";
